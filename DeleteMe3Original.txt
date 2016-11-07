@@ -1,0 +1,2 @@
+
+Testing delete after staging. Does committing work?
